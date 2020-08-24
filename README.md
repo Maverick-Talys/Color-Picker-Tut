@@ -1,4 +1,6 @@
-# React Colors Project
+# React Colors Project Tutorial 
+
+Final Project by following Colt's Tutorial
 
 - A clone of websites like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers).
 - One of the projects for my Modern React Bootcamp course.
