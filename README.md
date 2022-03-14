@@ -1,4 +1,4 @@
-# React Colors Project Tutorial 
+# React Colors Project 
 
 Final Project by following Colt's Tutorial
 
